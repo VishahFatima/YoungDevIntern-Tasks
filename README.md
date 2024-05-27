@@ -2,7 +2,7 @@
 This repository contains my exploration of the "Animal Bites" dataset as part of my one-month remote internship at YoungDev Intern.The dataset was sourced from Kaggle. The internship tasks involved utilizing pandas for data manipulation and analysis, as well as data visualization techniques to uncover insights from the dataset.
 ## Data Set
 Here is the link of Dataset used:
-https://www.kaggle.com/datasets/animal-bites
+https://www.kaggle.com/datasets/rtatman/animal-bites
 
 ## Tasks Completed
 1. **Exploring Dataset with Pandas**:
